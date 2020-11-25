@@ -15,7 +15,7 @@ colour=["Red","Yellow","Purple"]
 new_dictionary=dict(zip(fruits,colour))
 print(new_dictionary)
 #4)
-set_A={"python","java","C","C++","R",}
+set_A={"python","java","C","C++","R"}
 print(len(set_A))
 #5)
 set_B={"python","koltin","js","html","css","java"}
