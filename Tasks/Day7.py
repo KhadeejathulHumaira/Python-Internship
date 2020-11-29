@@ -6,7 +6,7 @@ print(md.list1)
 for i in range(len(md.list1)):
    md.list1[i]=i+3
 print(md.list1)
-#2)Import pandas
+#2)Import pandas and use it
 import pandas as pd
 a=["Ron","John","Kiran"]
 b=[24,25,22]
