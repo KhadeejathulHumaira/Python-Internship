@@ -107,7 +107,7 @@ def try_two_except():
 try_two_except()
 
 #4)
-"""When you don't want your program to break in the middle because of handling errors """
+"""When our program has normal statements there is no need for try-excpt"""
 
 #5)input inside the try
 try:
