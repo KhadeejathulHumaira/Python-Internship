@@ -1,0 +1,26 @@
+[
+    {
+        "firstName": "Jane",
+        "lastName": "Doe",
+        "hobbies": [
+            "running",
+            "sky diving",
+            "singing"
+        ],
+        "age": 35,
+        "TakenTest": true,
+        "average": 67.99
+    },
+    {
+        "firstName": "Rosh",
+        "lastName": "Vartin",
+        "hobbies": [
+            "running",
+            "Drawing",
+            "dancing"
+        ],
+        "age": 39,
+        "TakenTest": true,
+        "average": 66.99
+    }
+]
